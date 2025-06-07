@@ -1,1 +1,0 @@
-# my-arch-i3wm-alias
