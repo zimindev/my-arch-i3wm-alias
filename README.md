@@ -22,6 +22,7 @@ alias reboot='sudo reboot'
 alias poweroff='sudo poweroff'
 alias services='systemctl list-units --type=service'
 alias top='btm'  # Use `bottom` instead of top (install with pacman)
+alias sleep='systemctl suspend'
 
 # 💻 Git
 alias gs='git status'
